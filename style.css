@@ -31,10 +31,11 @@
     color:white;
   }
   .font1{
-      font-family:  'Helvetica', 'sans-serif';
-      font-weight:bold;
-      margin-left: 150px;
-  }
+    font-family:'Arial', Helvetica, sans-serif;
+    font-weight:bolder;
+    color: rgb(255, 250, 250);
+    
+}
   .info {
     border-color: #2196F3;
     color: dodgerblue
@@ -81,12 +82,7 @@
       margin-top:30px;
       color:red;
   }
-  .font1{
-      font-family:'Arial', Helvetica, sans-serif;
-      font-weight:bolder;
-      color: rgb(58, 55, 55);
-      margin-left: 300px;
-  }
+
   /*.......ROUND BUTTON.......*/
   .round-button {
     width:8%;
@@ -103,6 +99,10 @@
     border-radius: 50%;
     background: rgb(106, 17, 189); 
     
+  }
+
+  .fade {
+    opacity: 5;
   }
 #container3{
     height: 400px;
