@@ -106,7 +106,6 @@
   }
 #container3{
     height: 400px;
-    width: 1000px;
     margin-top: 180px;
     margin-left: 200px;
 }
@@ -115,15 +114,14 @@
     float: left;
     margin-top: 28px;
     height: 250px;
-    width: 500px;
+    width: 50%;
 }
   .TmobileInfo{
-    float:right;
     position: relative;
     right: 350px;
     margin-bottom: 0px;
     bottom: 700px;
-    left:100px;
+    left: 20px;
     top: 34px;
   }
   .font2{
@@ -149,18 +147,16 @@
 
   #container4{
     height: 400px;
-    width: 1000px;
     margin-top: 180px;
     margin-left: 200px;
   }
   .AudiPic{
     position: relative;
-    float: right;
     margin-top: 28px;
     height: 250px;
-    left: 500px;
+    left: 515px;
     bottom: 300px;
-    width: 700px;
+    width: 50%;
     margin-left: 30px;
   }
 
@@ -174,7 +170,6 @@
   }
   #container5{
     height: 450px;
-    width: 1050px;
     margin-top: 180px;
     margin-left: 200px;
 }
@@ -186,12 +181,11 @@
     width: 500px;
 }
   .AlaskaInfo{
-    float:right;
     position: relative;
     right: 350px;
     margin-bottom: 0px;
     bottom: 700px;
-    left:100px;
+    left:20px;
     top: 34px;
   }
 #container6{
